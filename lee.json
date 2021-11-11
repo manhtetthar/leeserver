@@ -1,15 +1,40 @@
+[
+  {
+    "ques":"are you robot?",
+    "a":"yes",
+    "b":"No",
+    "c":"god",
+    "d":"bot",
+    "ans":"a"
+   }
+  
+  {
+
+    "ques":"are you robot?",
+
+    "a":"yes",
+
+    "b":"No",
+
+    "c":"god",
+
+    "d":"bot",
+
+    "ans":"a"
+
+   }
 {
-  "title": "This is Title!",
-  "message": "This is Message",
-  "download": "Direct APK Download Link!!!",
-  "playstore": "com.mgngoe.zfont",
-  "uninstall": false,
-  "what": {
-    "model": [],
-    "version": [],
-    "all": true
-  },
-  "versionName": "1.7",
-  "versionCode": 8,
-  "force": true
-}
+
+    "ques":"ငါချောလား ",
+
+    "a":"yes",
+
+    "b":"No",
+
+    "c":"god",
+
+    "d":"bot",
+
+    "ans":"a"
+
+   }
